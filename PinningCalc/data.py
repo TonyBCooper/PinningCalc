@@ -63,7 +63,7 @@ class data:
     SystemType(-6,'Inline','Kwikset', 5, '1234567', None, None),
     SystemType(-7,'Inline','Lockwood Australia', 6, '0123456789A', None, None),
     SystemType(-8,'Inline','Ruko/Assa 600', 6, '987654321', None, None),
-    SystemType(-9,'Inline','Sargent', 6, '0123456789', None, None),
+    SystemType(-9,'Inline','Sargent', 6, '1234567890', None, None),
     SystemType(-10,'SFIC','Best A2', 7, '0123456789', 23, 10),
     SystemType(-11,'SFIC','Best A3', 7, '0123456', 16, 7),
     SystemType(-12,'SFIC','Best A4', 7, '012345', 14, 6)
